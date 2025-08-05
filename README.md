@@ -34,3 +34,10 @@ The printed 5 hardcoded headlines and then printed 5 actual headlines from the p
 Save to .txt File
 
 Opens a file and writes both the static headlines and scraped ones to it.
+
+# Why It Is Built?
+To automate news collection from BBC.
+
+Helps users quickly see top news without opening a browser.
+
+Useful for learning Python, web scraping, and data automation.
