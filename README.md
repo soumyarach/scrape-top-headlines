@@ -19,9 +19,9 @@ BeautifulSoup()
 
 Parses the raw HTML so we can extract specific elements (like headlines).
 
-Find <h3> tags
+Find tags
 
-Looks for headlines inside <h3> tags with class 'gs-c-promo-heading__title'.
+Looks for headlines inside tags with class 'gs-c-promo-heading__title'.
 
 Store Top 5 Headlines
 
